@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OpenCV-Python Tutorials'
+project = u'dosc-test general info'
 copyright = u'2015, Kevin J. Walchko'
 
 # The version info for the project you're documenting, acts as replacement for
