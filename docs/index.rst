@@ -11,7 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   engineering/statistics
+   raspbian/test
 
 Indices and tables
 ==================
