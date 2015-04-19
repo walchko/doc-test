@@ -1,4 +1,4 @@
-==========
+
 doc-test
 ==========
 
@@ -9,7 +9,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   py_tutorials/py_tutorials
+   engineering
+   raspbian
 
 Indices and tables
 ==================
