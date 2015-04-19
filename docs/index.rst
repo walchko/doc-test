@@ -6,6 +6,9 @@
 Welcome to test-again's documentation!
 ======================================
 
+This is just a test git/readthedocs project where I can experiment with things
+
+
 Contents:
 
 .. toctree::
